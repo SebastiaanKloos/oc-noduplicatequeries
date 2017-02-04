@@ -1,0 +1,6 @@
+plugin:
+    name: 'codecycler.noqueryduplicates::lang.plugin.name'
+    description: 'codecycler.noqueryduplicates::lang.plugin.description'
+    author: 'Sebastiaan Kloos'
+    icon: oc-icon-database
+    homepage: ''

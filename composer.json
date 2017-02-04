@@ -1,0 +1,11 @@
+{
+    "name": "codecycler/noqueryduplicates",
+    "description": "No more Eloquent query duplicates",
+    "authors": [
+        {
+            "name": "Sebastiaan Kloos",
+            "email": "sebastiaan@ictbelang.nl"
+        }
+    ],
+    "require": {}
+}
